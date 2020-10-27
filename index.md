@@ -1,17 +1,14 @@
 # Welcome to Arya Mazloomi's Github Page!
 
-You can use the [editor on GitHub](https://github.com/aryamazloomi/aryamazloomi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+As a previous Electrical Engineering student and current Computer Science learner, I like to share my experience with all of my friends around the world (anyone who is crazy enough to learn new things is considered as friend :) ) 
+The purpose of this page is to introduce you my Github projects briefly. you can find all projects in the following code block. Also you can access my personal blog and my podcast (That's right! I'm hosting a Tech Podcast as well!) from [here](https://digi-podcast.tech/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Projects
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+# CoronaVirusBot
+  //since this virus reminded us to love eachother again and be thankful for our health, I decided to create a telegram bot which you can have an eye on the situation of Covid19 around the globe.
 ## Header 2
 ### Header 3
 
